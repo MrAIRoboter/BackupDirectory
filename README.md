@@ -1,4 +1,5 @@
-# BackupDirectory
-Using:
+# Using:
 
-"{backupName}" "{destination}" "{password}"
+```bash
+BackupDirectory.exe "{backupName}" "{destination}" "{password}"
+```
